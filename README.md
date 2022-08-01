@@ -2,7 +2,7 @@
 currently i am working as a react developer i am learning MERN stack from last 3 years. I am very good in Frontend development but i have special passion with backend development
 
 * 🌍  I'm based in Kolkata
-* 🖥️  See my portfolio at [santra-manoj-portfolio](http://https://santra-manoj-portfolio.vercel.app)
+* 🖥️  See my portfolio at [santra-manoj-portfolio](https://santra-manoj-portfolio.vercel.app)
 * 🧠  I'm learning angular , react native
 * 🤝  I'm open to collaborating on ERP and insurence level project
 
