@@ -1,9 +1,9 @@
 
-currently i am working as a react developer i am learning MERN stack from last 3 years. I am very good in Frontend development but i have special passion with backend development
+currently i am working as a MERN stack developer at Fleapo Corporation. I am very good in Frontend development and Javascript backend development
 
 * 🌍  I'm based in Kolkata
 * 🖥️  See my portfolio at [santra-manoj-portfolio](https://santra-manoj-portfolio.vercel.app)
-* 🧠  I'm started learning  react native
+* 🧠  I'm started learning  react native and aws, docker
 * 🤝  I'm open to collaborating on ERP and insurence level project
 
 <a href="https://www.github.com/manoj-19" target="_blank" rel="noreferrer"><img
