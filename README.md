@@ -3,7 +3,7 @@ currently i am working as a react developer i am learning MERN stack from last 3
 
 * 🌍  I'm based in Kolkata
 * 🖥️  See my portfolio at [santra-manoj-portfolio](https://santra-manoj-portfolio.vercel.app)
-* 🧠  I'm learning angular , react native
+* 🧠  I'm started learning  react native
 * 🤝  I'm open to collaborating on ERP and insurence level project
 
 <a href="https://www.github.com/manoj-19" target="_blank" rel="noreferrer"><img
