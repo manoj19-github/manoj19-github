@@ -3,7 +3,7 @@ currently i am working as a MERN stack developer at Fleapo Corporation. I am ver
 
 * 🌍  I'm based in Kolkata
 * 🖥️  See my portfolio at [santra-manoj-portfolio](https://santra-manoj-portfolio.vercel.app)
-* 🧠  I'm started learning  react native and aws, docker and kubernetes
+* 🧠  I'm started learning  react native, aws, docker and kubernetes
 * 🤝  I'm open to collaborating on ERP and insurence level project
 
 <a href="https://www.github.com/manoj-19" target="_blank" rel="noreferrer"><img
