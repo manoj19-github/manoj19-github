@@ -1,5 +1,5 @@
 
-currently i am working as a MERN stack developer at Fleapo Corporation. I am very good in Frontend development and Javascript backend development
+In present I am working as a MERN stack developer at Fleapo Corporation. I am very good in Frontend development as well as Javascript backend development
 
 * 🌍  I'm based in Kolkata
 * 🖥️  See my portfolio at [santra-manoj-portfolio](https://santra-manoj-portfolio.vercel.app)
