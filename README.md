@@ -2,9 +2,8 @@
 In present I am working as a MERN stack developer at Fleapo Corporation. I am very good in Frontend development as well as Javascript backend development
 
 * 🌍  I'm based in Kolkata
-* 🖥️  See my portfolio at [santra-manoj-portfolio](https://santra-manoj-portfolio.vercel.app)
 * 🧠  I'm starting to learn  nest js, aws, docker and kubernetes
-* 🤝  I'm open to collaborating on ERP and insurence level project
+
 
 <a href="https://www.github.com/manoj-19" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/manoj-19?logo=github&style=for-the-badge&color=ef4444&labelColor=1c1917" /></a>
