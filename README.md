@@ -2,7 +2,7 @@
 In present I am working as a MERN stack developer at Fleapo Corporation. I am very good in Frontend development as well as Javascript backend development
 
 * 🌍  I'm based in Kolkata
-* 🧠  I'm starting to learn  nest js, aws, docker and kubernetes
+* 🧠  I'm starting to learn  angular, nest js, aws, docker and kubernetes
 
 
 <a href="https://www.github.com/manoj-19" target="_blank" rel="noreferrer"><img
