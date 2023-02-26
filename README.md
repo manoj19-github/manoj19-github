@@ -1,8 +1,8 @@
 
-In present I am working as a MERN stack developer at Fleapo Corporation. I am very good in Frontend development as well as Javascript backend development
+In present I am working as a MERN stack developer at MSQUBE Technology PVT solutions. I am very good in Frontend development as well as Javascript backend development
 
 * 🌍  I'm based in Kolkata
-* 🧠  I'm starting to learn  angular, nest js, aws, docker and kubernetes
+* 🧠  I'm starting to learn  nestjs,dart with flutter, react-native
 
 
 <a href="https://www.github.com/manoj-19" target="_blank" rel="noreferrer"><img
