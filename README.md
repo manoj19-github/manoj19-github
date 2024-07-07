@@ -1,5 +1,5 @@
 
-In present I am working as a MERN stack developer at MSQUBE Technology PVT solutions. I am very good in Frontend development as well as Javascript backend development and also react native and flutter for mobile app development
+In present I am working as a Software developer at MSQUBE Technology PVT solutions with overall 2 years of working experience in MERN stack domain. I am very good in Frontend development as well as backend development using Django and NodeJS and also react native for  mobile app development
 
 * 🌍  I'm based in Kolkata
 
