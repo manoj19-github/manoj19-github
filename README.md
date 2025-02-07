@@ -1,4 +1,8 @@
-At present, I am working as a Software developer at MSQUBE Technology PVT Solutions with an overall 2 years of working experience in the MERN stack domain. I have professional experience on Javascript, Python, Dart and PHP language. I am very good in backend development using NodeJS  as well as Frontend development by ReactJS or NextJS and also React native and Flutter for mobile app development.
+I am a skilled Software Developer at MSQUBE Technology Solutions PVT LTD with nearly three years of
+experience in the MERN stack domain. I have professional expertise in JavaScript, Python, Dart, and PHP,
+specializing in backend development using Node.js and frontend development with React.js and Next.js.
+Additionally, I have strong experience in mobile app development using Flutter and React Native. My diverse
+technical background enables me to build efficient, scalable, and user-friendly web and mobile applications.
 
 * 🌍  I'm based in Kolkata
 
